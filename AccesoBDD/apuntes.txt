@@ -1,0 +1,9 @@
+Statement PreparedStatement -> Sentencias parametrizadas: como insert y update
+
+Statement -> Sentencia estática: la que no se le pasa nada por parametro tipo un select * 
+en el caso de que lleve x para comparar en el where pasado por teclado ya no será estática
+
+
+st {	execute -> Insert,delete
+	executeQuery -> 
+	executeUpdate -> Insert,delete
